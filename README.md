@@ -36,22 +36,6 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 - **Cloud Services:** AWS EC2, S3, RDS  
 - **Other Tools:** Git & GitHub, MySQL Workbench, boto3
 
----
-
-## Screen Shots
-
-### Home Page:
-![Home Page](https://drive.google.com/uc?export=view&id=1sBl4w-NyDVD9nvIy2aV10P1J9HCEyS1l)
-
-### Registration Page:
-![Registration Page](https://drive.google.com/uc?export=view&id=16kp8Leto7fludFmGJny8gs14olkp8QS_)
-
-### Login Page:
-![Login Page](https://drive.google.com/uc?export=view&id=1F2yvH4nqio_dg8v8D1vc1Q8sknttmOb9)
-
-### Content Page:
-![Content Page](https://drive.google.com/uc?export=view&id=1r4wsKWqOZUvhrvEG2axeuZrGIdHhnYtO)
-
 
 ---
 
@@ -101,5 +85,5 @@ This project showcases how web applications can be effectively deployed and scal
 
 ## 🔗 Demo and Source Code
 
-- 🎥 [Demo Video](https://drive.google.com/file/d/1sXFfP4cZmmT8hJ0h3voknxtMfanGDPlj/view?usp=sharing)  
-- 🧾 [GitHub Repository](https://github.com/Rohitmh09/AWS-hosted-Virtual-Classroom-and-Learning-Platform-main.git)
+- 🎥 [Demo Video]([https://drive.google.com/file/d/1sXFfP4cZmmT8hJ0h3voknxtMfanGDPlj/view?usp=sharing](https://drive.google.com/file/d/17FsAzvP7B-ccAknk-2j1GWTbGITumTWC/view?usp=drivesdk))  
+- 🧾 [GitHub Repository]([https://github.com/Rohitmh09/AWS-hosted-Virtual-Classroom-and-Learning-Platform-main.git](https://github.com/Vicky810-tech/AWS-hosted-Virtual-Classroom-andLearning-Platform-.git))
